@@ -1,1 +1,2 @@
-# [Live Preview💻](https://sagrsuri.github.io/sagrsuri/SubModule/TheNetflixCopy/index.html)
+### this repo added as submodule on *sagarsuri.in* Repository.
+[Live Preview💻](https://sagrsuri.github.io/sagarsuri.in/SubModule/TheNetflixCopy/index.html)
